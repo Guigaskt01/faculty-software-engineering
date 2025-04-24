@@ -6,17 +6,13 @@ It's organized by semesters and includes additional independent or integrative p
 ## 📁 Organization
 
 - **1st Semester**: Information Systems Fundamentals, Algorithms, Logic...
-- **2nd Semester**: Databases, Data Structures...
-- **Extra Projects**: Integrative projects or independent studies.
+- **2nd Semester**: loading... tay tuned!
 
 ## 🛠️ Technologies
 
 - Python
-- SQL
-- HTML/CSS
-- Git
-- Markdown
-- (Add more as you learn!)
+- Cisco Packet Tracer
+- VirtualBox
 
 ## 📌 Purpose
 
