@@ -13,6 +13,7 @@ It's organized by semesters and includes additional independent or integrative p
 - Python
 - Cisco Packet Tracer
 - VirtualBox
+- Docker
 
 ## 📌 Purpose
 
