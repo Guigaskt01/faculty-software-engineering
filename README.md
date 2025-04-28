@@ -5,15 +5,15 @@ It is organized by semesters and includes additional independent or integrative 
 
 ## 📁 Organization and Academic Progress
 
-- [x] **1st Semester**: 📚 In progress...  
-    Subjects: Fundamentals of Information Systems, Algorithms, Logic...
-- [ ] **2nd Semester**: Loading... Stay tuned!
-- [ ] **3rd Semester**: Loading... Stay tuned!
-- [ ] **4th Semester**: Loading... Stay tuned!
-- [ ] **5th Semester**: Loading... Stay tuned!
-- [ ] **6th Semester**: Loading... Stay tuned!
-- [ ] **7th Semester**: Loading... Stay tuned!
-- [ ] **8th Semester**: Loading... Stay tuned!
+- [1st Semester](./1st%20semester)
+- [2nd Semester](./2nd%20semester)
+- [3rd Semester](./3rd%20semester)
+- [4th Semester](./4th%20semester)
+- [5th Semester](./5th%20semester)
+- [6th Semester](./6th%20semester)
+- [7th Semester](./7th%20semester)
+- [8th Semester](./8th%20semester)
+- [Extracurricular Courses](./course%20extra)
 
 ## 🛠️ Technologies
 
