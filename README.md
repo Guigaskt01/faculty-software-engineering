@@ -13,7 +13,7 @@ It is organized by semesters and includes additional independent or integrative 
 - [ ] [6th Semester](./6th-semester)  - loading... stay tuned!
 - [ ] [7th Semester](./7th-semester)  - loading... stay tuned!
 - [ ] [8th Semester](./8th-semester)  - loading... stay tuned!
-- [ ] [Extra Courses](./extra-courses)  
+- [ ] [Extra Courses](./extra-courses)  - in progress
 ## 🛠️ Technologies
 
 - Python
