@@ -5,7 +5,7 @@ It is organized by semesters and includes additional independent or integrative 
 
 ## 📁 Organization and Academic Progress
 
-- [1st Semester](./1st%20semester)
+- [1st Semester](./1st-semester)
 - [2nd Semester](./2nd%20semester)
 - [3rd Semester](./3rd%20semester)
 - [4th Semester](./4th%20semester)
@@ -13,7 +13,7 @@ It is organized by semesters and includes additional independent or integrative 
 - [6th Semester](./6th%20semester)
 - [7th Semester](./7th%20semester)
 - [8th Semester](./8th%20semester)
-- [Extracurricular Courses](./course%20extra)
+- [Extracurricular Courses](./extra%20course)
 
 ## 🛠️ Technologies
 
