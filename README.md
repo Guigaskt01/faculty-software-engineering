@@ -1,12 +1,19 @@
 # 🎓 Software Engineering Degree Repository
 
 This repository contains activities, projects, and code developed throughout my Software Engineering degree program.  
-It's organized by semesters and includes additional independent or integrative projects.
+It is organized by semesters and includes additional independent or integrative projects.
 
-## 📁 Organization
+## 📁 Organization and Academic Progress
 
-- **1st Semester**: Information Systems Fundamentals, Algorithms, Logic...
-- **2nd Semester**: loading... tay tuned!
+- [x] **1st Semester**: 📚 In progress...  
+    Subjects: Fundamentals of Information Systems, Algorithms, Logic...
+- [ ] **2nd Semester**: Loading... Stay tuned!
+- [ ] **3rd Semester**: Loading... Stay tuned!
+- [ ] **4th Semester**: Loading... Stay tuned!
+- [ ] **5th Semester**: Loading... Stay tuned!
+- [ ] **6th Semester**: Loading... Stay tuned!
+- [ ] **7th Semester**: Loading... Stay tuned!
+- [ ] **8th Semester**: Loading... Stay tuned!
 
 ## 🛠️ Technologies
 
@@ -21,8 +28,10 @@ The goal of this repository is to document my academic journey, track my evoluti
 
 ## 🚀 How to Explore
 
-Each folder contains organized files for each subject or project. You can navigate by semester or topic.
+Each folder contains organized files related to each subject or project.  
+You can navigate by semester or topic.
 
 ---
 
-Feel free to explore, suggest improvements, or reach out if you have any questions!
+**Feel free to explore, suggest improvements, or reach out if you have any questions!**
+
