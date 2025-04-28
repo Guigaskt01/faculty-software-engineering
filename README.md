@@ -6,14 +6,14 @@ It is organized by semesters and includes additional independent or integrative 
 ## 📁 Organization and Academic Progress
 
 - [x] [1st Semester](./1st-semester)
-- [] [2nd Semester](./2nd-semester)
-- [] [3rd Semester](./3rd-semester)
-- [] [4th Semester](./4th-semester)
-- [] [5th Semester](./5th-semester)
-- [] [6th Semester](./6th-semester)
-- [] [7th Semester](./7th-semester)
-- [] [8th Semester](./8th-semester)
-- [] [Extracurricular Courses](./extra-courses)
+- [][2nd Semester](./2nd-semester)
+- [][3rd Semester](./3rd-semester)
+- [][4th Semester](./4th-semester)
+- [][5th Semester](./5th-semester)
+- [][6th Semester](./6th-semester)
+- [][7th Semester](./7th-semester)
+- [][8th Semester](./8th-semester)
+- [][Extracurricular Courses](./extra-courses)
 ## 🛠️ Technologies
 
 - Python
