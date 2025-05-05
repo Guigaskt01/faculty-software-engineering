@@ -31,7 +31,7 @@ Range-based iteration
 
 Nested loops (in some cases)
 
-🔄 Exercises 36 and beyond
+🔄 Exercises 37 and beyond
 Introduction to while loops:
 
 Condition-based repetition
