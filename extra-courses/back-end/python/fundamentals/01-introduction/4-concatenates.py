@@ -1,0 +1,11 @@
+name=input('Digite o nome do jogo\n')
+year_launch=int(input('Digite o ano de lançamento do jogo\n'))
+game_price=float(input('Digite o preço do jogo\n'))
+plan_included=input('está incluso no serviço mensal?\n')
+
+print('###Dados do jogo###')
+print('=====================')
+print(f'Nome do jogo : {name}')
+print(f'Ano de lançamento : {year_launch}')
+print(f'Preço do jogo : {game_price}')
+print(f'Está incluído no plano? : {plan_included}')
