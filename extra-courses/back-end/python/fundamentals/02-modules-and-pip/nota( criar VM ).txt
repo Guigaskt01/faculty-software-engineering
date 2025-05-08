@@ -1,0 +1,10 @@
+#Criar
+python -m venv .venv
+
+#entrar
+cd ./.venv/
+cd ./scripts/
+./activate
+
+
+

@@ -1,0 +1,14 @@
+mostra bibliotecas instaladas no desenvolvimento
+pip List
+
+Ele serve para instalar bibliotecas
+pip install pyinstaller
+
+retorna o resultado com um formato pronto para que possamos copiar as bibliotecas e versões e instalar com o pip.
+pip freeze.
+
+Por último, poderíamos adicionar o resultado anterior para um arquivo .txt, que vai ficar responsável pela listagem das bibliotecas, bem como de suas versões. Podemos usar esse comando: pip freeze -l > requirements.txt.
+
+
+
+Agora que temos a informação pronta no arquivo requirements.txt, é só executar o comando pip install -r requirements.txt e todas as bibliotecas serão instaladas.
